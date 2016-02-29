@@ -1,0 +1,20 @@
+{
+  "s3": {
+    "stage": {
+      "bucket": "apps-stage.seattletimesdata.com",
+      "path": "Sounders-2016"
+    },
+    "live": {
+      "bucket": "projects.seattletimes.com",
+      "path": "2016/sports/Sounders-2016-starting-XI"
+    }
+  },
+  "title": "",
+  "description": "",
+  "url": "http://projects.seattletimes.com/2016/sports/Sounders-2016-starting-XI/",
+  "slug": "",
+  "tags": ["interactive", "parallax"],
+  "image": "",
+  "production": true,
+  "sheets": ["1ymjLeXpdsihNVA1R59QW_3iVzM6clKFBAvWqrG72g6s"]
+}
